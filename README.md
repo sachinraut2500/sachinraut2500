@@ -1,9 +1,9 @@
-## Hi there! 👋
-
-<!-- Your GIF -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRiYWtnZ2czMnc1Z3dtdGk0ZnFhM3dwd2E5NzdsdTRrbjhlMnZpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated GIF" />
-</p>
+</a>
+<h1 align="center">
+    <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Sachin+Raut!" />
+    </a>
+</h1> <br/><img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRiYWtnZ2czMnc1Z3dtdGk0ZnFhM3dwd2E5NzdsdTRrbjhlMnZpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <!-- Animated SVG (loading spinner) -->
 <p align="center">
