@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**sachinraut2500/sachinraut2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Animated GIF" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Animated SVG (loading spinner) -->
+<p align="center">
+  <img src="https://loading.io/spinners/double-ring/lg.double-ring-spinner.gif" width="100" alt="Loading Spinner" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Typing animation using readme-typing-svg -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=500&color=00F&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+My+GitHub+Profile;I+Love+Coding!" alt="Typing Animation" />
+</h1>
+
+<!-- GitHub Stats Badges -->
+<p align="center">
+  <a href="https://github.com/sachinraut2500">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinraut2500&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sachinraut2500">
+    <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinraut2500&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sachinraut2500">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinraut2500&langs_count=8&layout=compact&theme=radical" />
+  </a>
+</p>
+
+
