@@ -36,5 +36,11 @@
 
 ---
 
-**Note:** GitHub README does not support CSS or JS animations directly, so GIFs and SVGs are your best options for animations.
+**Contact Me
+I’m always open to connecting with like-minded professionals!
+Reach out to me on LinkedIn or via email.
+
+Happy Coding & Exploring Data! 🚀
+
+© 2025 Sachin Raut **
 
