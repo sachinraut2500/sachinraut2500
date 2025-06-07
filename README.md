@@ -1,8 +1,8 @@
 ## Hi there! 👋
 
-<!-- Animated GIF -->
+<!-- Your GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Animated GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRiYWtnZ2czMnc1Z3dtdGk0ZnFhM3dwd2E5NzdsdTRrbjhlMnZpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated GIF" />
 </p>
 
 <!-- Animated SVG (loading spinner) -->
@@ -34,4 +34,7 @@
   </a>
 </p>
 
+---
+
+**Note:** GitHub README does not support CSS or JS animations directly, so GIFs and SVGs are your best options for animations.
 
