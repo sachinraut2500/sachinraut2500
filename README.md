@@ -19,7 +19,7 @@
     </td>
     <td>
       <a href="https://github.com/sachinraut2500">
-        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinraut2500&theme=radical" />
+        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinraut2500&theme=radical"/>
       </a>
     </td>
   </tr>
