@@ -14,7 +14,7 @@
   <tr>
     <td>
       <a href="https://github.com/sachinraut2500">
-        <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinraut2500&show_icons=true&theme=radical" />
+         <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.demolab.com/?user=sachinraut2500&theme=radical"/>
       </a>
     </td>
     <td>
