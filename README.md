@@ -1,74 +1,73 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Sachin+Raut!" />
-  </a>
-</h1>
+# 👋 Hi There! I'm Sachin Raut!
 
-<br />
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRiYWtnZ2czMnc1Z3dtdGk0ZnFhM3dwd2E5NzdsdTRrbjhlMnZpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Animation" />
-</p>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/sachinraut2500">
-        <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinraut2500&show_icons=true&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sachinraut2500">
-        <img alt="GitHub Contribution Streak" src="https://streak-stats.demolab.com/?user=sachinraut2500&theme=radical"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<a href="https://github.com/sachinraut2500">
-  <img alt="Top Languages by Commit Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinraut2500&langs_count=8&layout=compact&theme=radical" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=blue&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋;+I'm+Sachin+Raut!)](https://github.com/sachinraut2500)
 
 ---
 
-<details>
-  <summary><h2>Languages and Tools</h2></summary>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRiYWtnZ2czMnc1Z3dtdGk0ZnFhM3dwd2E5NzdsdTRrbjhlMnZpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Animation" width="400" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/sachinraut2500">
+    <img src="https://github-readme-stats.vercel.app/api?username=sachinraut2500&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sachinraut2500&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sachinraut2500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinraut2500&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" />
-  <!-- Add more icons here if you want -->
+  <!-- Add more icons here if you like -->
 </p>
-
-</details>
 
 ---
 
-<details>
-  <summary><h2>Random Dev Quotes ✍️</h2></summary>
+## ✍️ Random Dev Quotes
 
-<h3>Motivational</h3>
+### Motivational
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=motivational&theme=tokyonight" alt="Motivational Quote" />
 </p>
 
-<h3>Inspirational</h3>
+### Inspirational
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=inspirational&theme=tokyonight" alt="Inspirational Quote" />
 </p>
 
-<h3>Humorous</h3>
+### Humorous
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=humor&theme=tokyonight" alt="Humorous Quote" />
 </p>
 
-<h3>Life</h3>
+### Life
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=life&theme=tokyonight" alt="Life Quote" />
 </p>
-
-</details>
 
 ---
 
@@ -82,10 +81,10 @@
 
 ---
 
-### Contact Me
+## 📬 Contact Me
 
 I’m always open to connecting with like-minded professionals!  
-Reach out to me on [https://www.linkedin.com/in/sachinraut2500/](#) or via email.
+Reach out to me on [LinkedIn](#) or via email.
 
 Happy Coding & Exploring Data! 🚀
 
