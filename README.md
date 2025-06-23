@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/sachinraut2500">
-         <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.demolab.com/?user=sachinraut2500&theme=radical"/>
-      </a>
-    </td>
+  <a href="https://github.com/sachinraut2500">
+    <img alt="GitHub Contribution Streak" src="https://streak-stats.demolab.com/?user=sachinraut2500&theme=radical"/>
+  </a>
+   </td>
     <td>
       <a href="https://github.com/sachinraut2500">
         <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinraut2500&theme=radical"/>
