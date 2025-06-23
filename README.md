@@ -13,13 +13,13 @@
 <table>
   <tr>
     <td>
-  <a href="https://github.com/sachinraut2500">
-    <img alt="GitHub Contribution Streak" src="https://streak-stats.demolab.com/?user=sachinraut2500&theme=radical"/>
-  </a>
-   </td>
+      <a href="https://github.com/sachinraut2500">
+        <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sachinraut2500&show_icons=true&theme=radical" />
+      </a>
+    </td>
     <td>
       <a href="https://github.com/sachinraut2500">
-        <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinraut2500&theme=radical"/>
+        <img alt="GitHub Contribution Streak" src="https://streak-stats.demolab.com/?user=sachinraut2500&theme=radical"/>
       </a>
     </td>
   </tr>
@@ -35,11 +35,10 @@
   <summary><h2>Languages and Tools</h2></summary>
 
 <p align="left">
-  <!-- Add your icons here -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" />
-  <!-- Add more as you like -->
+  <!-- Add more icons here if you want -->
 </p>
 
 </details>
@@ -77,16 +76,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
-<img src="https://profile-counter.glitch.me/sachinraut2500/count.svg" width="1000" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sachinraut2500/count.svg" width="300" />
+</p>
 
+---
 
+### Contact Me
 
-
-Contact Me
-I’m always open to connecting with like-minded professionals!
-Reach out to me on LinkedIn or via email.
+I’m always open to connecting with like-minded professionals!  
+Reach out to me on [https://www.linkedin.com/in/sachinraut2500/](#) or via email.
 
 Happy Coding & Exploring Data! 🚀
 
-© 2025 Sachin Raut 
+---
+
+© 2025 Sachin Raut
 __________________________________________________________
