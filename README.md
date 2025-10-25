@@ -29,7 +29,7 @@
   <img alt="Top Languages by Commit Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinraut2500&langs_count=8&layout=compact&theme=radical" />
 </a>
 
----
+--------------------
 
 <details>
   <summary><h2>Languages and Tools</h2></summary>
